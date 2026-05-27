@@ -1,8 +1,0 @@
-Package: myrpc-server
-Version: 1.0
-Section: net
-Priority: optional
-Architecture: amd64
-Maintainer: boobawamba
-Description: myRPC server daemon
-    Server daemon for receiving and executing allowed remote commands.
