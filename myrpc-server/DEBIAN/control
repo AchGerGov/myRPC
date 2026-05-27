@@ -1,0 +1,7 @@
+Package: myrpc-server
+Version: 1.0-1
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: student <student@example.local>
+Description: myRPC server daemon
